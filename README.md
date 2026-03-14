@@ -1,13 +1,15 @@
 # 👋 Hello, I'm kxbyte
 
 **Software Engineer**
-Backend • Frontend • Full Stack
+Backend • Frontend • Full Stack • Cybersecurity
 
 I'm passionate about building software and creating complete systems from the ground up. I work across backend and frontend development, designing and developing full applications and tools.
 
+I also have a strong interest in cybersecurity and system analysis, exploring how software and systems work internally and how they can be made more secure.
+
 I enjoy creating different kinds of technology, including web platforms, desktop applications and mobile apps. My focus is building functional, scalable and efficient systems.
 
-I like exploring how software works internally and constantly improving my skills by building new projects and experimenting with different ideas.
+I like experimenting with ideas, building projects and constantly improving my development skills.
 
 **Currently:** Working as a Full Stack Developer.
 
@@ -24,6 +26,7 @@ I like exploring how software works internally and constantly improving my skill
 * Software tools
 * Web platforms
 * Desktop applications
+* Security tools and system analysis
 * Experimental systems and technologies
 
 ---
